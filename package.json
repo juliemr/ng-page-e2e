@@ -1,0 +1,18 @@
+{
+  "name": "ng-page-e2e",
+  "version": "0.0.0",
+  "description": "An example of testing AngularJS.org end to end with Protractor.",
+  "main": "",
+  "scripts": {
+    "test": "protractor protractor-conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ralphj/ng-page-e2e"
+  },
+  "author": "Julie Ralph <ju.ralph@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "protractor": ">0.13.0"
+  }
+}
